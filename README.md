@@ -1,6 +1,6 @@
 ## Hello, I'm Shelby.
 
-I work on GitHub's advisory curation team. You may see me at https://github.com/github/advisory-database, where I discuss aspects of GitHub Security Advisory content with the greater open-source software community.
+I work on GitHub's advisory curation team. You may see me at [The GitHub Advisory Database repository](https://github.com/github/advisory-database), where I discuss aspects of GitHub Security Advisory content with the greater open-source software community.
 
 
 <!--
